@@ -17,7 +17,7 @@
 15. pada kelas buffreadreader ini misalnya pada Latihan4 kita buat variabel tipe data string dan harus membuatnya menjadi tipe data float, maka kita perlu mengkonversi tipe data string ke tipe data float, contoh sintaxnya -->  
 16. angka1 = Float.parseFloat(a);
 17. jika konversi ke tipe int maka --> angka1 = Int.parseInt(a) dan lain"nya..
-18. Kelas JOptionPane adalah memunculkan dialog box ke user untuk proses input. 
+18. Kelas JOptionPane adalah memunculkan dialog box ke user untuk proses input dan mendapatkan suatu nilai atau informasi. 
 19. import JOptionPane dengan sintas import javax.swing.JOptionPane
 20. contohnya terdapat pada Latihan5
 
